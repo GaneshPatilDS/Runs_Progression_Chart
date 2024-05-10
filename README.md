@@ -5,7 +5,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![newplot (7)](https://github.com/GaneshPatilDS/Runs_Progression_Chart/assets/123234894/ec12067b-0c22-4c93-9290-2109c71e6dc8)
+
+
+![newplot (8)](https://github.com/GaneshPatilDS/Runs_Progression_Chart/assets/123234894/18d5a0d4-d430-4a1f-a236-6f34d346e19f)
 
 
 
@@ -15,5 +17,6 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 For example, one can use this script to create a Runs Progression Chart 📈 for the IPL match between Mumbai Indians (MI) and Lucknow Super Giants (LSG). The chart will illustrate the runs scored by both teams throughout the match, showcasing the momentum shifts and key moments 🏏.
 
